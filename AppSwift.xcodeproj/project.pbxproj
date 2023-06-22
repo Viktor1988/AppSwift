@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DFB4FF1E2A44B09800B3F4DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFB4FF1D2A44B09800B3F4DD /* ViewController.swift */; };
 		DFE57ED52A44A9DF001DF2AC /* AppSwiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE57ED42A44A9DF001DF2AC /* AppSwiftApp.swift */; };
 		DFE57ED72A44A9DF001DF2AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE57ED62A44A9DF001DF2AC /* ContentView.swift */; };
 		DFE57ED92A44A9E0001DF2AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFE57ED82A44A9E0001DF2AC /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DFB4FF1D2A44B09800B3F4DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DFE57ED12A44A9DF001DF2AC /* AppSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFE57ED42A44A9DF001DF2AC /* AppSwiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppSwiftApp.swift; sourceTree = "<group>"; };
 		DFE57ED62A44A9DF001DF2AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				DFE57ED42A44A9DF001DF2AC /* AppSwiftApp.swift */,
 				DFE57ED62A44A9DF001DF2AC /* ContentView.swift */,
+				DFB4FF1D2A44B09800B3F4DD /* ViewController.swift */,
 				DFE57ED82A44A9E0001DF2AC /* Assets.xcassets */,
 				DFE57EDA2A44A9E0001DF2AC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFB4FF1E2A44B09800B3F4DD /* ViewController.swift in Sources */,
 				DFE57ED72A44A9DF001DF2AC /* ContentView.swift in Sources */,
 				DFE57ED52A44A9DF001DF2AC /* AppSwiftApp.swift in Sources */,
 			);
